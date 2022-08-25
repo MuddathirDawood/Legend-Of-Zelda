@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @font-face {
+            font-family: 'botwFont';
+            src: url('./views/fonts/LOZ/thewildbreathofzelda-15lv-webfont.woff2') format('woff2'),
+                 url('./views/fonts/LOZ/thewildbreathofzelda-15lv-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'triforce';
+            src: url('./views/fonts/LOZ2/triforce-y07d-webfont.woff2') format('woff2'),
+                 url('./views/fonts/LOZ2/triforce-y07d-webfont.woff') format('woff');
+            font-weight: 700;
+            font-style: normal;
+
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .container{
+            min-width: 100vw;
+            min-height: 100vh;
+            background: url(./views/images/4K-BOTW-Wallpapers.jpg)no-repeat center center/cover;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        font-family: 'botwFont';
+        }
+        button{
+            font-family: 'triforce';
+            background-color: transparent;
+            width: 150px;
+            height: 50px;
+            font-size: larger;
+            margin-top: 25px;
+            border: 3px solid black;
+            transition: all 1s;
+        }
+        button:hover{
+            color: yellow;
+            letter-spacing: 1px;
+            transition: all 1s;
+            width: 155px;
+        }
+        h1{
+            margin: 0;
+        }
+    </style>
+    <title>Home</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Legend of Zelda</h1>
+        <h1>All Games Ever Made</h1>
+        <a href="./titles"><button>Show All Games</button></a>
+    </div>
+</body>
+</html>

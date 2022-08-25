@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "title": "The Legend Of Zelda",
+        "image": "./views/images/Legend_of_zelda_cover_(with_cartridge)_gold.png",
+        "year": 1986
+    },{
+        "id": 2,
+        "title": "Zelda II: The Adventure Of Link",
+        "image": "./views/images/LOZII.png",
+        "year": 1987
+    },{
+        "id": 3,
+        "title": "The Legend Of Zelda: A Link To The Past",
+        "image": "./views/images/The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.jpg",
+        "year": 1991
+    },{
+        "id": 4,
+        "title": "The Legend Of Zelda: Link's Awakening",
+        "image": "./views/images/LADX_NA_Box_Art.png",
+        "year": 1993
+    },{
+        "id": 5,
+        "title": "Zelda: The Wand Of Gamelon",
+        "image": "./views/images/Zelda_WoG_box_cover.png",
+        "year": 1993
+    },{
+        "id": 6,
+        "title": "Link: The Faces Of Evil",
+        "image": "./views/images/Link_The_Faces_of_Evil_Cover.png",
+        "year": 1993
+    },{
+        "id": 7,
+        "title": "Zelda's Adventure",
+        "image": "./views/images/Zeldasadventure_packaging.jpg",
+        "year": 1994
+    },{
+        "id": 8,
+        "title": "The Legend Of Zelda: Ocarina Of Time",
+        "image": "./views/images/OoT_English_Logo.png",
+        "year": 1998
+    },{
+        "id": 9,
+        "title": "The Legend Of Zelda: Majora's Mask",
+        "image": "./views/images/The_Legend_of_Zelda_-_Majora's_Mask_Box_Art.jpg",
+        "year": 2000
+    },{
+        "id": 10,
+        "title": "The Legend Of Zelda: Oracle of Seasons",
+        "image": "./views/images/Oracleofseasons.jpg",
+        "year": 2001
+    },{
+        "id": 11,
+        "title": "The Legend Of Zelda: Oracle of Ages",
+        "image": "./views/images/Oracleofages.jpg",
+        "year": 2001
+    },{
+        "id": 12,
+        "title": "The Legend Of Zelda: A Link To The Past and Four Swords",
+        "image": "./views/images/The_Legend_of_Zelda_A_Link_to_the_Past_&_Four_Swords_Game_Cover.jpg",
+        "year": 2002
+    },{
+        "id": 13,
+        "title": "The Legend Of Zelda: Wind Waker",
+        "image": "./views/images/The_Legend_of_Zelda_The_Wind_Waker.jpg",
+        "year": 2002
+    },{
+        "id": 14,
+        "title": "The Legend Of Zelda: Minish Cap",
+        "image": "./views/images/ZeldaMinishCap_BoxArt.png",
+        "year": 2004
+    },{
+        "id": 15,
+        "title": "The Legend Of Zelda: Twilight Princess",
+        "image": "./views/images/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg",
+        "year": 2006
+    },{
+        "id": 16,
+        "title": "The Legend Of Zelda: Phantom Hourglass",
+        "image": "./views/images/Phantomhour.png",
+        "year": 2007
+    },{
+        "id": 17,
+        "title": "Link's Crossbow Training",
+        "image": "./views/images/Link's_Crossbow_Training.jpg",
+        "year": 2007
+    },{
+        "id": 18,
+        "title": "The Legend Of Zelda: Spirit Tracks",
+        "image": "./views/images/Spirit_Tracks_Cover.png",
+        "year": 2009
+    },{
+        "id": 19,
+        "title": "The Legend Of Zelda: Ocarina Of Time 3D",
+        "image": "./views/images/OoT_3D_Box_Art.jpg",
+        "year": 2011
+    },{
+        "id": 20,
+        "title": "The Legend Of Zelda: Skyward Sword",
+        "image": "./views/images/Legend_of_Zelda_Skyward_Sword_boxart.png",
+        "year": 2011
+    }
+]
